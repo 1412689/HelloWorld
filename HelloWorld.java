@@ -7,7 +7,7 @@ public class HelloWorld
 
 	public static void main (String[] args)
 	{
-		System.out.println(message + " - " + name);
+		System.out.println(message + " / " + name);//Modify by Teo
 	}
 
 }
