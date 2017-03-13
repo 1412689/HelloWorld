@@ -1,4 +1,8 @@
 public class HelloWorld
 {
-	public String mesage ="HelloWorld"; //adder by Ti
+	public static String mesage ="HelloWorld"; //adder by Ti
+	public static void main()
+	{
+		System.out.println(message);
+	}
 }
