@@ -1,4 +1,11 @@
 public class HelloWorld
 {
-	public String mesage ="HelloWorld"; //adder by Ti
+	public static String mesage ="HelloWorld"; //adder by Ti
+	
+	public static String name="Ti";
+
+	public static void main (String[] args)
+	{
+		System.out.println(message + "." + name);
+	}
 }
